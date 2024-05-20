@@ -1,9 +1,12 @@
-const input = document.querySelector('input');
+const input = document.querySelector('.input');
 const btn = document.querySelector('a');
 
+
 function generator() {
-    let randomString = Math.random().toString(26).slice(-8);
+    const inputSize = parseInt(document.querySelector('.inputSize').value, 10);
+    let randomString = Math.random().toString(36).slice(-inputSize);
     input.value = randomString;
+    console.log(inputSize)
 }
 
 function copy() {

@@ -40,6 +40,23 @@ h3 {
     margin-bottom: 30px;
 }
 
+.boxSize span {
+    color: #fff;
+    font-size: 24px;
+}
+
+.boxSize input {
+    padding: 18px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 24px;
+    background-color: rgb(80, 80, 80);
+}
+
 .boxCopy {
     margin: 15px 0;
     position: relative;
@@ -58,6 +75,7 @@ h3 {
     width: 100%;
     font-size: 20px;
     color: #fff;
+    background-color: rgb(80, 80, 80);
 }
 
 a {
@@ -102,7 +120,7 @@ a.active::before {
     border: none;
     padding: 9px 19px;
     border-radius: 5px;
-    background-color: #3a3a41;
+    background-color: #0071ee;
     color: #fff;
 }
 
