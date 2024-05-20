@@ -17,7 +17,7 @@ I did this project in the video on the DEVenvolvente channel.
 <br>
 
 <p align="center">
-  <img alt="Imagem Ilustrativa Github Favorites" src="img/preview.png" width="600px">
+  <img alt="Illustrative Image of Password Generator " src="img/preview.png" width="600px">
 </p>
 
 ## 🚀 Technologies
